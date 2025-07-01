@@ -1,0 +1,116 @@
+.sistema-soc {
+  padding: 60px 20px;
+  background: linear-gradient(to right, #007a8c, #00b08c);
+  color: rgb(0, 0, 0);
+  font-family: Arial, sans-serif;
+}
+
+.sistema-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+.texto-soc {
+  flex: 1;
+  padding: 20px;
+}
+
+.texto-soc h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.texto-soc p {
+  font-size: 18px;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.btn-saiba-mais {
+  background-color: #ffc107;
+  color: black;
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.btn-saiba-mais:hover {
+  background-color: #e0a800;
+}
+
+.imagem-soc {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+}
+
+.imagem-soc img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+
+.sistema-soc2 {
+  padding: 60px 20px;
+  background: linear-gradient(to right, #ffffff, #07f0d1);
+  color: rgb(0, 0, 0);
+  font-family: Arial, sans-serif;
+}
+
+.sistema-content2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+.texto-soc2 {
+  flex: 1;
+  padding: 20px;
+}
+
+.texto-soc h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.texto-soc p {
+  font-size: 18px;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.btn-saiba-mais {
+  background-color: #ffc107;
+  color: black;
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.btn-saiba-mais:hover {
+  background-color: #e0a800;
+}
+
+.imagem-soc {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+}
+
+.imagem-soc img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}

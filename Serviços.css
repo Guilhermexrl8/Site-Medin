@@ -1,0 +1,114 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f6f8;
+  color: #333;
+}
+
+.exame-header {
+  text-align: center;
+  background: linear-gradient(to right, #0d3c55, #0accda);
+  color: white;
+  padding: 40px 20px;
+}
+
+.exame-header img {
+  width: 80px;
+  margin-bottom: 10px;
+}
+
+
+
+.descricao-exame {
+  background-color: #e6f7fb; /* tom suave azul */
+  padding: 40px 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  line-height: 1.6;
+  border-radius: 10px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.descricao-exame h2 {
+  font-size: 28px;
+  color: #0077a3;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #00a8e8;
+  padding-bottom: 5px;
+}
+
+.descricao-exame h3 {
+  font-size: 22px;
+  color: #0077a3;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+.descricao-exame p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.descricao-exame ul {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.descricao-exame ul li {
+  font-size: 16px;
+  margin-bottom: 10px;
+  list-style-type: disc;
+}
+
+.descricao-exame strong {
+  font-weight: 600;
+  color: #004f6e;
+}
+
+@media screen and (max-width: 768px) {
+  .descricao-exame {
+    padding: 20px 15px;
+  }
+
+  .descricao-exame h2 {
+    font-size: 24px;
+  }
+
+  .descricao-exame h3 {
+    font-size: 20px;
+  }
+
+  .descricao-exame p,
+  .descricao-exame ul li {
+    font-size: 15px;
+  }
+}
+
+
+.descricao-exame strong {
+  font-weight: 600;
+  color: #004f6e;
+}
+
+@media screen and (max-width: 768px) {
+  .descricao-exame {
+    padding: 20px 15px;
+  }
+
+  .descricao-exame h2 {
+    font-size: 24px;
+  }
+
+  .descricao-exame h3 {
+    font-size: 20px;
+  }
+
+  .descricao-exame p,
+  .descricao-exame ul li {
+    font-size: 15px;
+  }
+}
+

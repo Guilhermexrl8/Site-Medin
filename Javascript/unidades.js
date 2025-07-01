@@ -1,0 +1,1 @@
+console.log("Site da Medin carregado com sucesso!");
